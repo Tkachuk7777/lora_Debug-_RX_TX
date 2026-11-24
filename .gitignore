@@ -1,0 +1,28 @@
+# Keil uVision build outputs & temporary files
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.bin
+*.hex
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
+*.build_log.htm
+*.uvgui.*
+*.uvguix.*
+*.uvoptx
+*._2i
+
+# Build and flash logs
+build_log.txt
+flash_log.txt
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
